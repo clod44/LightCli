@@ -95,7 +95,7 @@ built in boilerplate usage:
  myWindow.showOn(LCLI OBJECT HERE);
 */
 
-LCLI_BoilerPlateWindow w1 = new LCLI_BoilerPlateWindow(3, 3, 30, 15, 1, 2, "COOL", new string[] { "I need to stop procastinating", "(1) - Exercise", "(2) - Read Books", "(3) - No Fap" }, -1);
+LCLI_BoilerPlateWindow w1 = new LCLI_BoilerPlateWindow(3, 3, 30, 15, 1, 2, "COOL", new string[] { "I need to stop procastinating", "(1) - Exercise", "(2) - Read Books", "(3) - Git gud" }, -1);
 w1.showOn(cli);
 ```
 this boilerplate has:  
