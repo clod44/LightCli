@@ -1,0 +1,6 @@
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/bin/Debug/LightCli.exe
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/bin/Debug/LightCli.pdb
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/obj/x86/Debug/LightCli.csproj.AssemblyReference.cache
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/obj/x86/Debug/LightCli.csproj.CoreCompileInputs.cache
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/obj/x86/Debug/LightCli.exe
+/home/sayochi/Documents/devstuff/LightCli/LightCli/LightCli/obj/x86/Debug/LightCli.pdb
