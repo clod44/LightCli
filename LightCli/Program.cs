@@ -63,7 +63,6 @@ namespace LightCli
                 LCLI_BoilerPlateWindow w4 = new LCLI_BoilerPlateWindow(10, 18, 20, 10, 3, 0, "Transparent!!", new string[] { "laga luga" }, 0);
                 w4.showOn(cli);
 
-
                 cli.renderScreen();
                 read("Your Input");
 

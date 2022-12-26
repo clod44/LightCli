@@ -1,16 +1,12 @@
 ﻿<Properties StartupConfiguration="{81D24A28-541F-449A-B962-742FF2FC91F9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="84" Column="39" />
+      <File FileName="Program.cs" Line="39" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LightCli" expanded="True">
-            <Node name="LightCli" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
+          <Node name="LightCli" expanded="True" />
         </State>
       </Pad>
     </Pads>
