@@ -103,7 +103,7 @@ this boilerplate has:
  - a title(a narrow rectangle with center aligned text)
  - an array of strings. each element will be forced to be in a new line (a transparent rectangle with text on it)
 
-`w1.showOn(cli);` is basically adding these 3 Contents to the given LCLI object with `addContent();` //order matters
+`w1.showOn(cli);` is basically adding these 3 Contents to the given LCLI object with `addContent();`. **order matters**
 
 
 
