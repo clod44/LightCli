@@ -114,3 +114,5 @@ me too!
  ##### notes: 
  this is a monodevelop project folder. i dont know much about C languages. this was my practice project.  
  imagine coding 15 hours in 2 days to learn C# and clis instead of watching an hour long tutorial and completing the task. 
+ 
+ this is definitely one of the READMEs of all time
