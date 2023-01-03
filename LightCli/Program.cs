@@ -22,8 +22,6 @@ namespace LightCli
         public static void Main(string[] args)
         {
 
-            Console.ForegroundColor = ConsoleColor.White;
-            Console.BackgroundColor = ConsoleColor.Black;
 
 
 

@@ -1,15 +1,20 @@
 ﻿<Properties StartupConfiguration="{81D24A28-541F-449A-B962-742FF2FC91F9}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LightCli/Program.cs">
     <Files>
-      <File FileName="LightCli/Program.cs" Line="431" Column="1" />
+      <File FileName="LightCli/Program.cs" Line="16" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LightCli" expanded="True" selected="True">
-            <Node name="LightCli" expanded="True" />
+          <Node name="LightCli" expanded="True">
+            <Node name="LightCli" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
