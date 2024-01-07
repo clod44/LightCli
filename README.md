@@ -105,7 +105,8 @@ this boilerplate has:
 
 `w1.showOn(cli);` is basically adding these 3 Contents to the given LCLI object with `addContent();`. **order matters**
 
-
+## Example Showcase
+![example project screenshot](example-project-screenshot.png)
 
 ## Still Confused?
 me too!
